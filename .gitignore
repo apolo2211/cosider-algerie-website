@@ -1,0 +1,22 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de dépendances
+node_modules/
+bower_components/
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers temporaires
+*.log
+*.tmp
